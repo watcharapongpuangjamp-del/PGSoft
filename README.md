@@ -1,5 +1,6 @@
 # PGSoft Api源码，游戏前端(H5)，定制/修改前端信息
 <img src="https://web.telegram.org/a/favicon-32x32.png" width="24" height="24"> [Telegram](https://t.me/welegame)    
+### RTP可在线自由调整并且支持点杀
 
 ## 技术栈
 | 项目 | 详细 |
